@@ -24,7 +24,7 @@ To set up this application locally on your computer, perform the following steps
   The first step is to clone the project repository to a local directory on your computer. To clone the repository, run the following commands:
 <pre>
   git clone https://github.com/evanmorisato/TriviaGame.git
-  cd burger
+  cd TriviaGame
 </pre>
   2. Open index.html file in Default Browser
   
